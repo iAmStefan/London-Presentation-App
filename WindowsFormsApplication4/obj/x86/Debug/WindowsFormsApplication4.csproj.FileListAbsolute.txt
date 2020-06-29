@@ -1,0 +1,113 @@
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+c:\users\utilizator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form6.resources
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+D:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form7.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form5.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form6.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form7.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form8.resources
+F:\12 f\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Main.resources
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Attractions.resources
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Gallery.resources
+C:\Users\taloi\OneDrive\Desktop\WindowsFormsApplication4 (2)\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Guide.resources
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Main.resources
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Attractions.resources
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Guide.resources
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Gallery.resources
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilizator\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Main.resources
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Attractions.resources
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Guide.resources
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Gallery.resources
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\taloi\OneDrive\Desktop\Atestat Patrascu Alexandru\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Informatii.resources
